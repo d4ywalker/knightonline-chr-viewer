@@ -4,8 +4,23 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/)
 [![C#](https://img.shields.io/badge/C%23-.NET-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/)
 [![WebGL](https://img.shields.io/badge/WebGL-2.0-990000?style=for-the-badge&logo=webgl&logoColor=white)](https://get.webgl.org/)
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Video_Demo-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=qYxHie-fl7E)
 
 An interactive **3D Web & Desktop Model Viewer** designed for **Knight Online**. It features a custom in-browser binary parser for proprietary NoahSystem (`.n3chr`, `.n3anim`, `.n3pmesh`, `.n3shape`) formats, DXT texture decompressor, and real-time particle/FX rendering powered by Three.js WebGL.
+
+---
+
+## 📺 Video Demo & Preview
+
+<div align="center">
+
+[![Watch Knight Online Character Viewer Demo](https://img.youtube.com/vi/qYxHie-fl7E/hqdefault.jpg)](https://www.youtube.com/watch?v=qYxHie-fl7E)
+
+<br/>
+
+[![Watch on YouTube](https://img.shields.io/badge/▶_Watch_Full_Demo_on_YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=qYxHie-fl7E)
+
+</div>
 
 ---
 
@@ -75,3 +90,4 @@ Developed by **[Nex2killer (d4ywalker)](https://github.com/d4ywalker)**
 - Discord: `ahmad.bai`
 - Facebook: [near.ahmad](https://www.facebook.com/near.ahmad)
 - Instagram: [@ahmadbaihaqi27](https://instagram.com/ahmadbaihaqi27)
+- YouTube: [Watch Demo Video](https://www.youtube.com/watch?v=qYxHie-fl7E)
