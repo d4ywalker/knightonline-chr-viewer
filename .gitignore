@@ -1,0 +1,20 @@
+# Game asset folders (to keep repo lightweight and clean)
+/Chr/
+/ChrSelect/
+/ChrSelect2/
+/Item/
+/Object/
+/fx/
+/scratch/
+/.app_profile/
+
+# Temporary & backup files
+*.bak
+*.old
+*.src
+*.pck
+*.exe
+
+# Except icons and essential assets
+!icon.png
+!icon.ico

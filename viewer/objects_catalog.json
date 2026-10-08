@@ -1,0 +1,4447 @@
+[
+  {
+    "name": "cw_clanhouse_fountain01",
+    "file": "Object/cw_clanhouse_fountain01.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "cw_clanhouse_main_01",
+    "file": "Object/cw_clanhouse_main_01.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "cw_clanhouse_tower01",
+    "file": "Object/cw_clanhouse_tower01.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "cw_clanhouse_wall01",
+    "file": "Object/cw_clanhouse_wall01.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "cw_clanhouse_wallpost01",
+    "file": "Object/cw_clanhouse_wallpost01.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "cw_river_wall01",
+    "file": "Object/cw_river_wall01.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "cw_shrine_bigwall01",
+    "file": "Object/cw_shrine_bigwall01.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "cw_shrine_bigwall01_post01",
+    "file": "Object/cw_shrine_bigwall01_post01.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "cw_shrine_bigwall01_post02",
+    "file": "Object/cw_shrine_bigwall01_post02.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "cw_shrine_bigwall01_post03",
+    "file": "Object/cw_shrine_bigwall01_post03.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "cw_shrine_bigwall01_post04",
+    "file": "Object/cw_shrine_bigwall01_post04.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "cw_shrine_bigwall01_side",
+    "file": "Object/cw_shrine_bigwall01_side.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "cw_symboltower01",
+    "file": "Object/cw_symboltower01.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "cw_watchtower_brick01",
+    "file": "Object/cw_watchtower_brick01.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "cw_watchtower_brick02",
+    "file": "Object/cw_watchtower_brick02.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "cw_watchtower_fire",
+    "file": "Object/cw_watchtower_fire.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "cw_watchtower_wall01",
+    "file": "Object/cw_watchtower_wall01.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "cw_watchtower_wall02",
+    "file": "Object/cw_watchtower_wall02.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "cw_watchtower01",
+    "file": "Object/cw_watchtower01.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "cw_watchtower02",
+    "file": "Object/cw_watchtower02.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "cw_watchtower03",
+    "file": "Object/cw_watchtower03.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "fronti_2016_wall_a001",
+    "file": "Object/fronti_2016_wall_a001.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "fronti_2016_wall_a002",
+    "file": "Object/fronti_2016_wall_a002.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "fronti_2016_wall_a003",
+    "file": "Object/fronti_2016_wall_a003.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "fronti_2016_wall_a004",
+    "file": "Object/fronti_2016_wall_a004.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "fronti_2016_wall_a005",
+    "file": "Object/fronti_2016_wall_a005.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "fronti_2016_wall_a006",
+    "file": "Object/fronti_2016_wall_a006.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "fronti_2016_wall_a007",
+    "file": "Object/fronti_2016_wall_a007.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "fronti_2016_wall_c001",
+    "file": "Object/fronti_2016_wall_c001.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "fronti_2016_wall_c002",
+    "file": "Object/fronti_2016_wall_c002.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "fronti_2016_wall_c003",
+    "file": "Object/fronti_2016_wall_c003.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "fronti_2016_wall_c004",
+    "file": "Object/fronti_2016_wall_c004.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "fronti_2016_wall_c005",
+    "file": "Object/fronti_2016_wall_c005.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "fronti_2016_wall_c006",
+    "file": "Object/fronti_2016_wall_c006.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "fronti_2016_wall_c007",
+    "file": "Object/fronti_2016_wall_c007.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "fronti_2016_wall_c008",
+    "file": "Object/fronti_2016_wall_c008.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "fronti_2016_wall_c009_p",
+    "file": "Object/fronti_2016_wall_c009_p.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "obj_70lv_2006_cen_wall",
+    "file": "Object/obj_70lv_2006_cen_wall.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "obj_boss_zq_lwall_01",
+    "file": "Object/obj_boss_zq_lwall_01.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "obj_boss_zq_rwall_01",
+    "file": "Object/obj_boss_zq_rwall_01.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "obj_boss_zq_sidewall_01",
+    "file": "Object/obj_boss_zq_sidewall_01.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "obj_dun_pillar_big01",
+    "file": "Object/obj_dun_pillar_big01.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "obj_dun_pillar_big02",
+    "file": "Object/obj_dun_pillar_big02.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "obj_dun_pillar_big03",
+    "file": "Object/obj_dun_pillar_big03.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "obj_dun_pillar_big04",
+    "file": "Object/obj_dun_pillar_big04.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "obj_dun_pillar_big05",
+    "file": "Object/obj_dun_pillar_big05.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "obj_dun_pillar_big06",
+    "file": "Object/obj_dun_pillar_big06.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "obj_dun_pillar_room2_01",
+    "file": "Object/obj_dun_pillar_room2_01.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "obj_dun_pillar_room2_02",
+    "file": "Object/obj_dun_pillar_room2_02.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "obj_dun_pillar_room2_03",
+    "file": "Object/obj_dun_pillar_room2_03.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "obj_dun_pillar_room2_ston",
+    "file": "Object/obj_dun_pillar_room2_ston.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "obj_dun_pillar_room2_wel",
+    "file": "Object/obj_dun_pillar_room2_wel.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "obj_dun_pillar01",
+    "file": "Object/obj_dun_pillar01.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "obj_dun_pillar02",
+    "file": "Object/obj_dun_pillar02.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "obj_dun_pillar03",
+    "file": "Object/obj_dun_pillar03.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "obj_dun_pillar04",
+    "file": "Object/obj_dun_pillar04.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "obj_mora_wall_long_2007",
+    "file": "Object/obj_mora_wall_long_2007.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "obj_mora_wall_smol_2007",
+    "file": "Object/obj_mora_wall_smol_2007.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "obj_mora_wall01",
+    "file": "Object/obj_mora_wall01.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "obj_mora_wall02",
+    "file": "Object/obj_mora_wall02.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "obj_mora_wall03",
+    "file": "Object/obj_mora_wall03.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "obj_war_house01",
+    "file": "Object/obj_war_house01.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "obj_war_midcastlwallader",
+    "file": "Object/obj_war_midcastlwallader.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "obj_zq_side_wall_02",
+    "file": "Object/obj_zq_side_wall_02.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "z_el_trans_wall_mak_2008_s",
+    "file": "Object/z_el_trans_wall_mak_2008_s.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "z_el_trans_wall_mak_2008_s1",
+    "file": "Object/z_el_trans_wall_mak_2008_s1.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "z_el_trans_wall_mak_2008_s2",
+    "file": "Object/z_el_trans_wall_mak_2008_s2.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "z_el_trans_wall_mak_2008_s3",
+    "file": "Object/z_el_trans_wall_mak_2008_s3.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "zz_kgb_jo_all_awall",
+    "file": "Object/zz_kgb_jo_all_awall.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "zz_kgb_jo_all_awall_ka",
+    "file": "Object/zz_kgb_jo_all_awall_ka.n3shape",
+    "category": "Architecture & Buildings"
+  },
+  {
+    "name": "cw_clanhouse_fence01",
+    "file": "Object/cw_clanhouse_fence01.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "cw_clanhouse_fence02",
+    "file": "Object/cw_clanhouse_fence02.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "cw_clanhouse_gate01",
+    "file": "Object/cw_clanhouse_gate01.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "cw_shrine_gate01",
+    "file": "Object/cw_shrine_gate01.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "cw_shrine_gateside01",
+    "file": "Object/cw_shrine_gateside01.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "cw_shrine_gateside02",
+    "file": "Object/cw_shrine_gateside02.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "cw_stair01",
+    "file": "Object/cw_stair01.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "etc_obj_b_obj_el_01_fence",
+    "file": "Object/etc_obj_b_obj_el_01_fence.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "etc_obj_b_obj_el_01_fence01",
+    "file": "Object/etc_obj_b_obj_el_01_fence01.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "etc_obj_b_obj_ka_01_fence",
+    "file": "Object/etc_obj_b_obj_ka_01_fence.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "indoor_torch",
+    "file": "Object/indoor_torch.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "itemzone_2007_bill3_inner_door_01",
+    "file": "Object/itemzone_2007_bill3_inner_door_01.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "itemzone_2007_bill3_inner_door_02",
+    "file": "Object/itemzone_2007_bill3_inner_door_02.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "itemzone_2007_bill3_inner_door_black",
+    "file": "Object/itemzone_2007_bill3_inner_door_black.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "itemzone_2007_bill3_inner_door_blue",
+    "file": "Object/itemzone_2007_bill3_inner_door_blue.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "itemzone_2007_bill3_inner_door_main",
+    "file": "Object/itemzone_2007_bill3_inner_door_main.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "itemzone_2007_bill3_inner_door_red",
+    "file": "Object/itemzone_2007_bill3_inner_door_red.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "obj_04ka_castlgate",
+    "file": "Object/obj_04ka_castlgate.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "obj_boss_zq_1stbridge_01",
+    "file": "Object/obj_boss_zq_1stbridge_01.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "obj_el_transgate02_b",
+    "file": "Object/obj_el_transgate02_b.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "obj_moradon_bridge_2006",
+    "file": "Object/obj_moradon_bridge_2006.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "obj_war_castlgate",
+    "file": "Object/obj_war_castlgate.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "obj_war_castlgate_dor",
+    "file": "Object/obj_war_castlgate_dor.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "obj_war_dungate",
+    "file": "Object/obj_war_dungate.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "obj_war_dungate_ent",
+    "file": "Object/obj_war_dungate_ent.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "obj_war_dungate_light",
+    "file": "Object/obj_war_dungate_light.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "obj_war_dungatetr01",
+    "file": "Object/obj_war_dungatetr01.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "obj_war_midcastlgate",
+    "file": "Object/obj_war_midcastlgate.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "obj_war_sandgate",
+    "file": "Object/obj_war_sandgate.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "obj_war_sandgatewal00",
+    "file": "Object/obj_war_sandgatewal00.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "obj_war_sandgatewal01",
+    "file": "Object/obj_war_sandgatewal01.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "obj_war_sandgatewal02",
+    "file": "Object/obj_war_sandgatewal02.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "world_war_aaa01_door",
+    "file": "Object/world_war_aaa01_door.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "world_war_bbb01_door",
+    "file": "Object/world_war_bbb01_door.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "z_el_bongate1_a01_2008",
+    "file": "Object/z_el_bongate1_a01_2008.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "z_el_bongate2_a01_2008",
+    "file": "Object/z_el_bongate2_a01_2008.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "z_el_doorgate_aa01_2008",
+    "file": "Object/z_el_doorgate_aa01_2008.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "z_el_sat_gate_upa_a01_2008",
+    "file": "Object/z_el_sat_gate_upa_a01_2008.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "z_el_sat_gate_upa_a01_20088",
+    "file": "Object/z_el_sat_gate_upa_a01_20088.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "z_el_sat_gate_upa_a01_200888",
+    "file": "Object/z_el_sat_gate_upa_a01_200888.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "z_el_sat_gate_upa_a01_2008888",
+    "file": "Object/z_el_sat_gate_upa_a01_2008888.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "z_el_sat_gate_upa_a02_2008",
+    "file": "Object/z_el_sat_gate_upa_a02_2008.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "z_el_sat_gate_upa_a02_20088",
+    "file": "Object/z_el_sat_gate_upa_a02_20088.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "z_el_sat_gate_upa_a02_200888",
+    "file": "Object/z_el_sat_gate_upa_a02_200888.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "z_el_sat_gate_upa_a02_2008888",
+    "file": "Object/z_el_sat_gate_upa_a02_2008888.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "z_el_sat_gate_upa_a03_2008",
+    "file": "Object/z_el_sat_gate_upa_a03_2008.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "z_el_sat_gate_upa_a03_20088",
+    "file": "Object/z_el_sat_gate_upa_a03_20088.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "z_el_sat_gate_upa_a04_2008",
+    "file": "Object/z_el_sat_gate_upa_a04_2008.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "z_el_sat_gate_upa_a05_2008",
+    "file": "Object/z_el_sat_gate_upa_a05_2008.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "z_el_sat_gate_upa_a05_20088",
+    "file": "Object/z_el_sat_gate_upa_a05_20088.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "z_el_sat_gate_upa_a06_2008",
+    "file": "Object/z_el_sat_gate_upa_a06_2008.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "z_el_sat_gate_upa_a06_20088",
+    "file": "Object/z_el_sat_gate_upa_a06_20088.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "z_el_sat_gate_upa_a06_200888",
+    "file": "Object/z_el_sat_gate_upa_a06_200888.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "z_el_sat_gate_upa_a06_2008888",
+    "file": "Object/z_el_sat_gate_upa_a06_2008888.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "z_el_sat_gate_upa_a07_2008",
+    "file": "Object/z_el_sat_gate_upa_a07_2008.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "z_el_sat_gate_upa_a07_20088",
+    "file": "Object/z_el_sat_gate_upa_a07_20088.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "z_el_sat_gate_upa_a07_200888",
+    "file": "Object/z_el_sat_gate_upa_a07_200888.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "z_el_sat_gate_upa_a07_2008888",
+    "file": "Object/z_el_sat_gate_upa_a07_2008888.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "z_el_sat_gate_wall_destro_a_2008",
+    "file": "Object/z_el_sat_gate_wall_destro_a_2008.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "z_el_sat_gate_wall_destro_b_2008",
+    "file": "Object/z_el_sat_gate_wall_destro_b_2008.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "z_el_sat_gate1_a01_2008",
+    "file": "Object/z_el_sat_gate1_a01_2008.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "z_el_sat_gate1_a02_2008",
+    "file": "Object/z_el_sat_gate1_a02_2008.n3shape",
+    "category": "Bridges & Gates"
+  },
+  {
+    "name": "bat_e_dansang_01",
+    "file": "Object/bat_e_dansang_01.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "bat_e_macha_01",
+    "file": "Object/bat_e_macha_01.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "bat_e_macha_02_destroy",
+    "file": "Object/bat_e_macha_02_destroy.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "bat_regen_el_02_2006",
+    "file": "Object/bat_regen_el_02_2006.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "bat_regen_ka2_2006",
+    "file": "Object/bat_regen_ka2_2006.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "bat1_ka_wodctl01_lever00",
+    "file": "Object/bat1_ka_wodctl01_lever00.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "bat1_ka_wodctl01_leverbody00",
+    "file": "Object/bat1_ka_wodctl01_leverbody00.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "cw_fort_baricade01",
+    "file": "Object/cw_fort_baricade01.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "cw_fort_barrel01",
+    "file": "Object/cw_fort_barrel01.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "cw_fort_barrel02",
+    "file": "Object/cw_fort_barrel02.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "cw_fort_box01",
+    "file": "Object/cw_fort_box01.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "cw_fort_box02",
+    "file": "Object/cw_fort_box02.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "cw_fort_spear01",
+    "file": "Object/cw_fort_spear01.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "cw_fort_tent01",
+    "file": "Object/cw_fort_tent01.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "cw_fort_tent02",
+    "file": "Object/cw_fort_tent02.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "cw_fort01",
+    "file": "Object/cw_fort01.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_e_bric_nangan_01",
+    "file": "Object/obj_bat_e_bric_nangan_01.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_e_bric_nangan_02",
+    "file": "Object/obj_bat_e_bric_nangan_02.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_e_bric_nangan_04",
+    "file": "Object/obj_bat_e_bric_nangan_04.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_e_bric_nangan_05",
+    "file": "Object/obj_bat_e_bric_nangan_05.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_e_bric_nangan_ob",
+    "file": "Object/obj_bat_e_bric_nangan_ob.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_e_bric_nangan_post_01",
+    "file": "Object/obj_bat_e_bric_nangan_post_01.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_e_bric_nangan_post_02",
+    "file": "Object/obj_bat_e_bric_nangan_post_02.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_e_bric_nangan_post_03",
+    "file": "Object/obj_bat_e_bric_nangan_post_03.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_e_bric_nangan_post_04",
+    "file": "Object/obj_bat_e_bric_nangan_post_04.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_e_chain1",
+    "file": "Object/obj_bat_e_chain1.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_e_chain2",
+    "file": "Object/obj_bat_e_chain2.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_e_chain3",
+    "file": "Object/obj_bat_e_chain3.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_e_chain4",
+    "file": "Object/obj_bat_e_chain4.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_e_chain5",
+    "file": "Object/obj_bat_e_chain5.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_e_chain6",
+    "file": "Object/obj_bat_e_chain6.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_e_elmo_top",
+    "file": "Object/obj_bat_e_elmo_top.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_e_flag_cen_02",
+    "file": "Object/obj_bat_e_flag_cen_02.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_e_flag02",
+    "file": "Object/obj_bat_e_flag02.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_e_karus_top",
+    "file": "Object/obj_bat_e_karus_top.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_e_nangan_leap",
+    "file": "Object/obj_bat_e_nangan_leap.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_e_nangan_leap2",
+    "file": "Object/obj_bat_e_nangan_leap2.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_e_neutrality",
+    "file": "Object/obj_bat_e_neutrality.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_e_post",
+    "file": "Object/obj_bat_e_post.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_e_ship_elmo_02",
+    "file": "Object/obj_bat_e_ship_elmo_02.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_e_ship_karu",
+    "file": "Object/obj_bat_e_ship_karu.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_e_ship_karu_box",
+    "file": "Object/obj_bat_e_ship_karu_box.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_e_ship_karu_fire",
+    "file": "Object/obj_bat_e_ship_karu_fire.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_e_ship_old",
+    "file": "Object/obj_bat_e_ship_old.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_e_wood_board_01",
+    "file": "Object/obj_bat_e_wood_board_01.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_e_wood_board_02",
+    "file": "Object/obj_bat_e_wood_board_02.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_e_wood_board_03",
+    "file": "Object/obj_bat_e_wood_board_03.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_e_wood_nangan_01",
+    "file": "Object/obj_bat_e_wood_nangan_01.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_e_wood_nangan_02",
+    "file": "Object/obj_bat_e_wood_nangan_02.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_zip01",
+    "file": "Object/obj_bat_zip01.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_zip02",
+    "file": "Object/obj_bat_zip02.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_bat_zip03",
+    "file": "Object/obj_bat_zip03.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_dat_e_castle",
+    "file": "Object/obj_dat_e_castle.n3shape",
+    "category": "Castles & Forts"
+  },
+  {
+    "name": "obj_2010_table",
+    "file": "Object/obj_2010_table.n3shape",
+    "category": "Furniture & Thrones"
+  },
+  {
+    "name": "obj_boss_desk1_dann",
+    "file": "Object/obj_boss_desk1_dann.n3shape",
+    "category": "Furniture & Thrones"
+  },
+  {
+    "name": "cave_drg_head",
+    "file": "Object/cave_drg_head.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "cw_bush01",
+    "file": "Object/cw_bush01.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "cw_bush02",
+    "file": "Object/cw_bush02.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "cw_bush03",
+    "file": "Object/cw_bush03.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "cw_pamuk_rock_a01",
+    "file": "Object/cw_pamuk_rock_a01.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "cw_pamuk_rock_a02",
+    "file": "Object/cw_pamuk_rock_a02.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "cw_pamuk_rock_a03",
+    "file": "Object/cw_pamuk_rock_a03.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "cw_pamukstone_a01",
+    "file": "Object/cw_pamukstone_a01.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "cw_pamukstone_a02",
+    "file": "Object/cw_pamukstone_a02.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "cw_pamukstone_a03",
+    "file": "Object/cw_pamukstone_a03.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "cw_pamukstone_a04",
+    "file": "Object/cw_pamukstone_a04.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "cw_pamukstone_a05",
+    "file": "Object/cw_pamukstone_a05.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "cw_pamukstone_a06",
+    "file": "Object/cw_pamukstone_a06.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "cw_pamukstone_a07",
+    "file": "Object/cw_pamukstone_a07.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "cw_pamukstone_a08",
+    "file": "Object/cw_pamukstone_a08.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "cw_pamukstone_a09",
+    "file": "Object/cw_pamukstone_a09.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "cw_pamukstone_g01",
+    "file": "Object/cw_pamukstone_g01.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "cw_pamukstone_g02",
+    "file": "Object/cw_pamukstone_g02.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_a001",
+    "file": "Object/k_bigtree_2017_a001.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_a002",
+    "file": "Object/k_bigtree_2017_a002.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_a003",
+    "file": "Object/k_bigtree_2017_a003.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_a004",
+    "file": "Object/k_bigtree_2017_a004.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_a005",
+    "file": "Object/k_bigtree_2017_a005.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_a006",
+    "file": "Object/k_bigtree_2017_a006.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_a007",
+    "file": "Object/k_bigtree_2017_a007.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_b001",
+    "file": "Object/k_bigtree_2017_b001.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_b002",
+    "file": "Object/k_bigtree_2017_b002.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_b003",
+    "file": "Object/k_bigtree_2017_b003.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_b004",
+    "file": "Object/k_bigtree_2017_b004.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_b005",
+    "file": "Object/k_bigtree_2017_b005.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_b006",
+    "file": "Object/k_bigtree_2017_b006.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_b007",
+    "file": "Object/k_bigtree_2017_b007.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_c001",
+    "file": "Object/k_bigtree_2017_c001.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_c002",
+    "file": "Object/k_bigtree_2017_c002.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_c003",
+    "file": "Object/k_bigtree_2017_c003.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_d001",
+    "file": "Object/k_bigtree_2017_d001.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_d002",
+    "file": "Object/k_bigtree_2017_d002.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_d003",
+    "file": "Object/k_bigtree_2017_d003.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_d004",
+    "file": "Object/k_bigtree_2017_d004.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_d005",
+    "file": "Object/k_bigtree_2017_d005.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_d006",
+    "file": "Object/k_bigtree_2017_d006.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_d007",
+    "file": "Object/k_bigtree_2017_d007.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_e001",
+    "file": "Object/k_bigtree_2017_e001.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_e0010",
+    "file": "Object/k_bigtree_2017_e0010.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_e0011",
+    "file": "Object/k_bigtree_2017_e0011.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_e0012",
+    "file": "Object/k_bigtree_2017_e0012.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_e0013",
+    "file": "Object/k_bigtree_2017_e0013.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_e002",
+    "file": "Object/k_bigtree_2017_e002.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_e003",
+    "file": "Object/k_bigtree_2017_e003.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_e004",
+    "file": "Object/k_bigtree_2017_e004.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_e005",
+    "file": "Object/k_bigtree_2017_e005.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_e006",
+    "file": "Object/k_bigtree_2017_e006.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_e007",
+    "file": "Object/k_bigtree_2017_e007.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_e008",
+    "file": "Object/k_bigtree_2017_e008.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_e009",
+    "file": "Object/k_bigtree_2017_e009.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_f001",
+    "file": "Object/k_bigtree_2017_f001.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_f002",
+    "file": "Object/k_bigtree_2017_f002.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_f003",
+    "file": "Object/k_bigtree_2017_f003.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_g001",
+    "file": "Object/k_bigtree_2017_g001.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_g002",
+    "file": "Object/k_bigtree_2017_g002.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_h001",
+    "file": "Object/k_bigtree_2017_h001.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_h002",
+    "file": "Object/k_bigtree_2017_h002.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_i001",
+    "file": "Object/k_bigtree_2017_i001.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_i002",
+    "file": "Object/k_bigtree_2017_i002.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_i003",
+    "file": "Object/k_bigtree_2017_i003.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_bigtree_2017_i004",
+    "file": "Object/k_bigtree_2017_i004.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_rockk_2017_a01",
+    "file": "Object/k_rockk_2017_a01.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_rockk_2017_a010",
+    "file": "Object/k_rockk_2017_a010.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_rockk_2017_a02",
+    "file": "Object/k_rockk_2017_a02.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_rockk_2017_a03",
+    "file": "Object/k_rockk_2017_a03.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_rockk_2017_a04",
+    "file": "Object/k_rockk_2017_a04.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_rockk_2017_a04_all",
+    "file": "Object/k_rockk_2017_a04_all.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_rockk_2017_a04_all2",
+    "file": "Object/k_rockk_2017_a04_all2.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_rockk_2017_a04_all3",
+    "file": "Object/k_rockk_2017_a04_all3.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_rockk_2017_a05",
+    "file": "Object/k_rockk_2017_a05.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_rockk_2017_a06",
+    "file": "Object/k_rockk_2017_a06.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_rockk_2017_a07",
+    "file": "Object/k_rockk_2017_a07.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_rockk_2017_a08",
+    "file": "Object/k_rockk_2017_a08.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_rockk_2017_a09",
+    "file": "Object/k_rockk_2017_a09.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_tree_2017_gasy_a01",
+    "file": "Object/k_tree_2017_gasy_a01.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_tree_2017_gasy_a02",
+    "file": "Object/k_tree_2017_gasy_a02.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_tree_2017_gasy_a03",
+    "file": "Object/k_tree_2017_gasy_a03.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_tree_2017_gasy_b01",
+    "file": "Object/k_tree_2017_gasy_b01.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_tree_2017_gasy_b02",
+    "file": "Object/k_tree_2017_gasy_b02.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_tree_2017_gasy_b03",
+    "file": "Object/k_tree_2017_gasy_b03.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "k_tree_2017_gasy_b04",
+    "file": "Object/k_tree_2017_gasy_b04.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009_cave_fffff",
+    "file": "Object/obj_2009_cave_fffff.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009_cave_songjang",
+    "file": "Object/obj_2009_cave_songjang.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009_cavebadakstone",
+    "file": "Object/obj_2009_cavebadakstone.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009_cavecone",
+    "file": "Object/obj_2009_cavecone.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009_caveegg",
+    "file": "Object/obj_2009_caveegg.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009_cavegrondikk",
+    "file": "Object/obj_2009_cavegrondikk.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009_caveharo",
+    "file": "Object/obj_2009_caveharo.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009_cavelongstone",
+    "file": "Object/obj_2009_cavelongstone.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009_cavemushroom",
+    "file": "Object/obj_2009_cavemushroom.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009_cavemushroom_m",
+    "file": "Object/obj_2009_cavemushroom_m.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009_cavemushroom_s",
+    "file": "Object/obj_2009_cavemushroom_s.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009_cavespider",
+    "file": "Object/obj_2009_cavespider.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009_cavespider2",
+    "file": "Object/obj_2009_cavespider2.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009_cavespider3",
+    "file": "Object/obj_2009_cavespider3.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009_cavespiderbody",
+    "file": "Object/obj_2009_cavespiderbody.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009_cavesstone1",
+    "file": "Object/obj_2009_cavesstone1.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009_cavestone",
+    "file": "Object/obj_2009_cavestone.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009_cavestone2",
+    "file": "Object/obj_2009_cavestone2.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009_cavestonepan",
+    "file": "Object/obj_2009_cavestonepan.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009_cavesung_fffff",
+    "file": "Object/obj_2009_cavesung_fffff.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009_cavewater",
+    "file": "Object/obj_2009_cavewater.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009_stone_exxx",
+    "file": "Object/obj_2009_stone_exxx.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009cave_1cave",
+    "file": "Object/obj_2009cave_1cave.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009cave_1t",
+    "file": "Object/obj_2009cave_1t.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009cave_2_1t",
+    "file": "Object/obj_2009cave_2_1t.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009cave_2cave",
+    "file": "Object/obj_2009cave_2cave.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009cave_3_1t",
+    "file": "Object/obj_2009cave_3_1t.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009cave_3_2t",
+    "file": "Object/obj_2009cave_3_2t.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009cave_3cave",
+    "file": "Object/obj_2009cave_3cave.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009cave_4cave",
+    "file": "Object/obj_2009cave_4cave.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009cave_5_1t",
+    "file": "Object/obj_2009cave_5_1t.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009cave_5_2t",
+    "file": "Object/obj_2009cave_5_2t.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009cave_5sung",
+    "file": "Object/obj_2009cave_5sung.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009cave_6_1t",
+    "file": "Object/obj_2009cave_6_1t.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009cave_6sung",
+    "file": "Object/obj_2009cave_6sung.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009cave_7_1t",
+    "file": "Object/obj_2009cave_7_1t.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009cave_7sung",
+    "file": "Object/obj_2009cave_7sung.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009cave_c",
+    "file": "Object/obj_2009cave_c.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009cave_cjm",
+    "file": "Object/obj_2009cave_cjm.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2009cave_start",
+    "file": "Object/obj_2009cave_start.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_2010_rock",
+    "file": "Object/obj_2010_rock.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_boss_zq_3rd_stone",
+    "file": "Object/obj_boss_zq_3rd_stone.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_co_bush01",
+    "file": "Object/obj_co_bush01.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_co_bush02",
+    "file": "Object/obj_co_bush02.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_co_bush05",
+    "file": "Object/obj_co_bush05.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_co_bush06",
+    "file": "Object/obj_co_bush06.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_co_treexmas01",
+    "file": "Object/obj_co_treexmas01.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_dat_e_stonepost_01",
+    "file": "Object/obj_dat_e_stonepost_01.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_dat_e_stonepost_02",
+    "file": "Object/obj_dat_e_stonepost_02.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_ka_tree_bra",
+    "file": "Object/obj_ka_tree_bra.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_tree3_torn_brantree02_s",
+    "file": "Object/obj_tree3_torn_brantree02_s.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_war_bush01",
+    "file": "Object/obj_war_bush01.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_war_bush02",
+    "file": "Object/obj_war_bush02.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_war_rockwal",
+    "file": "Object/obj_war_rockwal.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_war_tree_a01",
+    "file": "Object/obj_war_tree_a01.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_war_tree_a03",
+    "file": "Object/obj_war_tree_a03.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_war_tree_a04",
+    "file": "Object/obj_war_tree_a04.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_war_tree_dunkul",
+    "file": "Object/obj_war_tree_dunkul.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_war_tree_out01",
+    "file": "Object/obj_war_tree_out01.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_war_tree_out02",
+    "file": "Object/obj_war_tree_out02.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_war_tree_out03",
+    "file": "Object/obj_war_tree_out03.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_war_tree_out04",
+    "file": "Object/obj_war_tree_out04.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "obj_war_tree_out05",
+    "file": "Object/obj_war_tree_out05.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "stonewall_staone_frontier_2016",
+    "file": "Object/stonewall_staone_frontier_2016.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "z_el_dtree_2008",
+    "file": "Object/z_el_dtree_2008.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "z_el_dtree_all_2008",
+    "file": "Object/z_el_dtree_all_2008.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "z_el_dtree1_2008",
+    "file": "Object/z_el_dtree1_2008.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "z_el_dtree2_2008",
+    "file": "Object/z_el_dtree2_2008.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "z_el_dtree3_2008",
+    "file": "Object/z_el_dtree3_2008.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "z_el_dtree4_2008",
+    "file": "Object/z_el_dtree4_2008.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "z_el_sat_wall_stone_2008",
+    "file": "Object/z_el_sat_wall_stone_2008.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "z_el_sat_wall_stone2_2008",
+    "file": "Object/z_el_sat_wall_stone2_2008.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "z_el_sat_wall_stone3b_2008",
+    "file": "Object/z_el_sat_wall_stone3b_2008.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "zz_kgb_jo_stone_wall_a001",
+    "file": "Object/zz_kgb_jo_stone_wall_a001.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "zz_kgb_jo_stone_wall_a002",
+    "file": "Object/zz_kgb_jo_stone_wall_a002.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "zz_kgb_jo_stone_wall_a003",
+    "file": "Object/zz_kgb_jo_stone_wall_a003.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "zz_kgb_jo_stone_wall_a004",
+    "file": "Object/zz_kgb_jo_stone_wall_a004.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "zz_kgb_jo_stone_wall_a005",
+    "file": "Object/zz_kgb_jo_stone_wall_a005.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "zz_kgb_jo_stone_wall_a006",
+    "file": "Object/zz_kgb_jo_stone_wall_a006.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "zz_kgb_jo_stone_wall_a007",
+    "file": "Object/zz_kgb_jo_stone_wall_a007.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "zz_kgb_jo_stone_wall_b001",
+    "file": "Object/zz_kgb_jo_stone_wall_b001.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "zz_kgb_jo_stone_wall_b002",
+    "file": "Object/zz_kgb_jo_stone_wall_b002.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "zz_kgb_jo_stone_wall_b003",
+    "file": "Object/zz_kgb_jo_stone_wall_b003.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "zz_kgb_jo_stone_wall_b004",
+    "file": "Object/zz_kgb_jo_stone_wall_b004.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "zz_kgb_jo_stone_wall_c001",
+    "file": "Object/zz_kgb_jo_stone_wall_c001.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "zz_kgb_jo_stone_wall_c002",
+    "file": "Object/zz_kgb_jo_stone_wall_c002.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "zz_kgb_jo_stone_wall_c003",
+    "file": "Object/zz_kgb_jo_stone_wall_c003.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "zz_kgb_jo_stone_wall_c004",
+    "file": "Object/zz_kgb_jo_stone_wall_c004.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "zz_kgb_jo_stone_wall_c005",
+    "file": "Object/zz_kgb_jo_stone_wall_c005.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "zz_kgb_jo_stone_wall_c006",
+    "file": "Object/zz_kgb_jo_stone_wall_c006.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "zz_kgb_jo_stone_wall_c007",
+    "file": "Object/zz_kgb_jo_stone_wall_c007.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "zz_kgb_jo_stone_wall_c008",
+    "file": "Object/zz_kgb_jo_stone_wall_c008.n3shape",
+    "category": "Nature & Caves"
+  },
+  {
+    "name": "baba",
+    "file": "Object/baba.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "baba_plane_20_20",
+    "file": "Object/baba_plane_20_20.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "babacube_10_10",
+    "file": "Object/babacube_10_10.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "babacube_2_2",
+    "file": "Object/babacube_2_2.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "character_scale",
+    "file": "Object/character_scale.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_brick01",
+    "file": "Object/cw_brick01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_grass01",
+    "file": "Object/cw_grass01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_pamukcliff_01",
+    "file": "Object/cw_pamukcliff_01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_pamukcliff_02",
+    "file": "Object/cw_pamukcliff_02.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_pamukcliff_03",
+    "file": "Object/cw_pamukcliff_03.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_pamukcliff_04",
+    "file": "Object/cw_pamukcliff_04.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_pamukcliff_05",
+    "file": "Object/cw_pamukcliff_05.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_pamukcliff_06",
+    "file": "Object/cw_pamukcliff_06.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_pamukcliff_g01",
+    "file": "Object/cw_pamukcliff_g01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_pamukcliff_g02",
+    "file": "Object/cw_pamukcliff_g02.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_plantspot01",
+    "file": "Object/cw_plantspot01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_shrine_brick01",
+    "file": "Object/cw_shrine_brick01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_shrine_brick02",
+    "file": "Object/cw_shrine_brick02.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_shrine_brick03",
+    "file": "Object/cw_shrine_brick03.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_shrine_brick04",
+    "file": "Object/cw_shrine_brick04.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_shrine_brick05",
+    "file": "Object/cw_shrine_brick05.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_shrine_brick06",
+    "file": "Object/cw_shrine_brick06.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_shrine_brick07",
+    "file": "Object/cw_shrine_brick07.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_ston01",
+    "file": "Object/cw_ston01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_ston02",
+    "file": "Object/cw_ston02.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_ston03",
+    "file": "Object/cw_ston03.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_ston04",
+    "file": "Object/cw_ston04.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_ston05",
+    "file": "Object/cw_ston05.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_ston06",
+    "file": "Object/cw_ston06.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_ston07",
+    "file": "Object/cw_ston07.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_terrain_brick02",
+    "file": "Object/cw_terrain_brick02.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_terrain_brick03",
+    "file": "Object/cw_terrain_brick03.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_terrain_brick09",
+    "file": "Object/cw_terrain_brick09.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_tr_big01",
+    "file": "Object/cw_tr_big01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_tr_pine01",
+    "file": "Object/cw_tr_pine01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_tr_pine02",
+    "file": "Object/cw_tr_pine02.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_tr01",
+    "file": "Object/cw_tr01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_tr02",
+    "file": "Object/cw_tr02.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_tr03",
+    "file": "Object/cw_tr03.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_wagon_broken01",
+    "file": "Object/cw_wagon_broken01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_wagon01",
+    "file": "Object/cw_wagon01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "deloss_aa01_2009",
+    "file": "Object/deloss_aa01_2009.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "deloss_b01_2009",
+    "file": "Object/deloss_b01_2009.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "dpumpkin_dan_green",
+    "file": "Object/dpumpkin_dan_green.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "drgon_hoon070613",
+    "file": "Object/drgon_hoon070613.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "eelmo_po_dan",
+    "file": "Object/eelmo_po_dan.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "el_ronack_2111_a011",
+    "file": "Object/el_ronack_2111_a011.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "el_ronack_2111_a022",
+    "file": "Object/el_ronack_2111_a022.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "el_ronack_2111_a033",
+    "file": "Object/el_ronack_2111_a033.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "el_ronack_2111_a044",
+    "file": "Object/el_ronack_2111_a044.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "elmo_man",
+    "file": "Object/elmo_man.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "fire_a_big",
+    "file": "Object/fire_a_big.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "forgottentemple_01",
+    "file": "Object/forgottentemple_01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "forgottentemple_010",
+    "file": "Object/forgottentemple_010.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "forgottentemple_011",
+    "file": "Object/forgottentemple_011.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "forgottentemple_012",
+    "file": "Object/forgottentemple_012.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "forgottentemple_013",
+    "file": "Object/forgottentemple_013.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "forgottentemple_014",
+    "file": "Object/forgottentemple_014.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "forgottentemple_015",
+    "file": "Object/forgottentemple_015.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "forgottentemple_02",
+    "file": "Object/forgottentemple_02.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "forgottentemple_03",
+    "file": "Object/forgottentemple_03.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "forgottentemple_04",
+    "file": "Object/forgottentemple_04.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "forgottentemple_05",
+    "file": "Object/forgottentemple_05.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "forgottentemple_06",
+    "file": "Object/forgottentemple_06.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "forgottentemple_07",
+    "file": "Object/forgottentemple_07.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "forgottentemple_08",
+    "file": "Object/forgottentemple_08.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "forgottentemple_09",
+    "file": "Object/forgottentemple_09.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "forgottentemple_post",
+    "file": "Object/forgottentemple_post.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "fron_a01_2015",
+    "file": "Object/fron_a01_2015.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "ft_2016_winssss_a001a",
+    "file": "Object/ft_2016_winssss_a001a.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "ft_2016_winssss_a001amm",
+    "file": "Object/ft_2016_winssss_a001amm.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "ft_2016_winssss_b002b",
+    "file": "Object/ft_2016_winssss_b002b.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "ft_2016_winssss_b002bmm",
+    "file": "Object/ft_2016_winssss_b002bmm.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "ft_2016_winssss_c002c",
+    "file": "Object/ft_2016_winssss_c002c.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "ft_2016_winssss_c002cmm",
+    "file": "Object/ft_2016_winssss_c002cmm.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "ft_2016_winver_a001a1",
+    "file": "Object/ft_2016_winver_a001a1.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "ft_2016_winver_a001amm1",
+    "file": "Object/ft_2016_winver_a001amm1.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "ft_2016_winver_b002b1",
+    "file": "Object/ft_2016_winver_b002b1.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "ft_2016_winver_b002bmm1",
+    "file": "Object/ft_2016_winver_b002bmm1.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "ft_2016_winver_c002c1",
+    "file": "Object/ft_2016_winver_c002c1.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "ft_2016_winver_c002cmm1",
+    "file": "Object/ft_2016_winver_c002cmm1.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "fx_bon_gig_01",
+    "file": "Object/fx_bon_gig_01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "high1",
+    "file": "Object/high1.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "hoon_070613_2",
+    "file": "Object/hoon_070613_2.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "horse_bow",
+    "file": "Object/horse_bow.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "horse_el_ba_w",
+    "file": "Object/horse_el_ba_w.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "horse_el_rf_w",
+    "file": "Object/horse_el_rf_w.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "horse_ka_at_w",
+    "file": "Object/horse_ka_at_w.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "horse_ka_pu_w",
+    "file": "Object/horse_ka_pu_w.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "horse_ka_tu_w",
+    "file": "Object/horse_ka_tu_w.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "horse_ka_wt_w",
+    "file": "Object/horse_ka_wt_w.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "ikk4_070806",
+    "file": "Object/ikk4_070806.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "itemzone_2007_bill3_inner_big_boss_kuan",
+    "file": "Object/itemzone_2007_bill3_inner_big_boss_kuan.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "jewelrysop_20080926",
+    "file": "Object/jewelrysop_20080926.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "jojo_2012_jedans_a01",
+    "file": "Object/jojo_2012_jedans_a01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "jojo_2012_jedans_a02",
+    "file": "Object/jojo_2012_jedans_a02.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "jojo_2012_jedans_a03",
+    "file": "Object/jojo_2012_jedans_a03.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "jojo_2012_jedans_a04",
+    "file": "Object/jojo_2012_jedans_a04.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "jojo_2012_jedans_a05",
+    "file": "Object/jojo_2012_jedans_a05.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "jojo_2012_jedans_a06",
+    "file": "Object/jojo_2012_jedans_a06.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "jojo_2012_jedans_a07",
+    "file": "Object/jojo_2012_jedans_a07.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "jojo_2012_jedans_a08",
+    "file": "Object/jojo_2012_jedans_a08.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "jojo_2012_jedans_alll",
+    "file": "Object/jojo_2012_jedans_alll.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "kal_ronack_2111_a011",
+    "file": "Object/kal_ronack_2111_a011.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "kal_ronack_2111_a022",
+    "file": "Object/kal_ronack_2111_a022.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "kal_ronack_2111_a033",
+    "file": "Object/kal_ronack_2111_a033.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "kal_ronack_2111_a044",
+    "file": "Object/kal_ronack_2111_a044.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "kkalus_po_dan",
+    "file": "Object/kkalus_po_dan.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "knight_10th",
+    "file": "Object/knight_10th.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "knight_10th1",
+    "file": "Object/knight_10th1.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "korhappy2011_good1",
+    "file": "Object/korhappy2011_good1.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "kurian",
+    "file": "Object/kurian.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "login_syang",
+    "file": "Object/login_syang.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "marceu_poison_object_bone",
+    "file": "Object/marceu_poison_object_bone.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "mon2010_deathwizard",
+    "file": "Object/mon2010_deathwizard.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "moradon2009_clan_aa001",
+    "file": "Object/moradon2009_clan_aa001.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "moradon2009_clan_bb001",
+    "file": "Object/moradon2009_clan_bb001.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "npc_tarantula2009",
+    "file": "Object/npc_tarantula2009.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_04ka_castl_wal01",
+    "file": "Object/obj_04ka_castl_wal01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_04ka_castl_wal02",
+    "file": "Object/obj_04ka_castl_wal02.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_04ka_castl00",
+    "file": "Object/obj_04ka_castl00.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_04ka_defenstor",
+    "file": "Object/obj_04ka_defenstor.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_04ka_genestor",
+    "file": "Object/obj_04ka_genestor.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_04ka_haus01",
+    "file": "Object/obj_04ka_haus01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_04ka_haus02",
+    "file": "Object/obj_04ka_haus02.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_04ka_medicstor",
+    "file": "Object/obj_04ka_medicstor.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_04ka_pubstore",
+    "file": "Object/obj_04ka_pubstore.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_04ka_shrine",
+    "file": "Object/obj_04ka_shrine.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_04ka_wepstor",
+    "file": "Object/obj_04ka_wepstor.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_2009_dragonroom",
+    "file": "Object/obj_2009_dragonroom.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_2009_sung_ex1",
+    "file": "Object/obj_2009_sung_ex1.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_2009woman2sang",
+    "file": "Object/obj_2009woman2sang.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_2010_fish",
+    "file": "Object/obj_2010_fish.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_2010_fish_halo",
+    "file": "Object/obj_2010_fish_halo.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_2010_fish_mon",
+    "file": "Object/obj_2010_fish_mon.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_2010_fish_tttop",
+    "file": "Object/obj_2010_fish_tttop.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_2010_fish3",
+    "file": "Object/obj_2010_fish3.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_2010_fishpan",
+    "file": "Object/obj_2010_fishpan.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_2010_nacksee",
+    "file": "Object/obj_2010_nacksee.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_2010_rearcar1",
+    "file": "Object/obj_2010_rearcar1.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_2010_rearcar2",
+    "file": "Object/obj_2010_rearcar2.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_2010_tong",
+    "file": "Object/obj_2010_tong.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_2010_tong2",
+    "file": "Object/obj_2010_tong2.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_2010bc",
+    "file": "Object/obj_2010bc.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_2010bc1",
+    "file": "Object/obj_2010bc1.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_2010moo",
+    "file": "Object/obj_2010moo.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_2010soccer",
+    "file": "Object/obj_2010soccer.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_2010soccer_bbbbb",
+    "file": "Object/obj_2010soccer_bbbbb.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_2010soccer_collision",
+    "file": "Object/obj_2010soccer_collision.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_2010soccer_gdgdgdgd",
+    "file": "Object/obj_2010soccer_gdgdgdgd.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_2010soccer_rrrrrrrrrr",
+    "file": "Object/obj_2010soccer_rrrrrrrrrr.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_2010soccers_line",
+    "file": "Object/obj_2010soccers_line.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_70lv_2006_3room",
+    "file": "Object/obj_70lv_2006_3room.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_70lv_2006_briage",
+    "file": "Object/obj_70lv_2006_briage.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_70lv_2006_cen_broc",
+    "file": "Object/obj_70lv_2006_cen_broc.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_70lv_2006_cen_sta",
+    "file": "Object/obj_70lv_2006_cen_sta.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_70lv_2006_cen_tile",
+    "file": "Object/obj_70lv_2006_cen_tile.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_70lv_2006_dongsang_green",
+    "file": "Object/obj_70lv_2006_dongsang_green.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_70lv_2006_dongsang_green_sit_wingz",
+    "file": "Object/obj_70lv_2006_dongsang_green_sit_wingz.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_70lv_2006_dongsang_green_sitz",
+    "file": "Object/obj_70lv_2006_dongsang_green_sitz.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_70lv_2006_dongsang_white_01",
+    "file": "Object/obj_70lv_2006_dongsang_white_01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_70lv_2006_dongsang_white_sit",
+    "file": "Object/obj_70lv_2006_dongsang_white_sit.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_70lv_2006_dongsang_white_sit_wing",
+    "file": "Object/obj_70lv_2006_dongsang_white_sit_wing.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_70lv_2006_dongsang_wing_green",
+    "file": "Object/obj_70lv_2006_dongsang_wing_green.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_70lv_2006_dongsang_wing_white_01",
+    "file": "Object/obj_70lv_2006_dongsang_wing_white_01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_70lv_2006_middle",
+    "file": "Object/obj_70lv_2006_middle.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_70lv_2006_middle_in05",
+    "file": "Object/obj_70lv_2006_middle_in05.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_bbss_tong",
+    "file": "Object/obj_bbss_tong.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_bigbri_070807",
+    "file": "Object/obj_bigbri_070807.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_00side",
+    "file": "Object/obj_boss_00side.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_1_room",
+    "file": "Object/obj_boss_1_room.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_2_1_2",
+    "file": "Object/obj_boss_2_1_2.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_2_2_2",
+    "file": "Object/obj_boss_2_2_2.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_2_2_2_1",
+    "file": "Object/obj_boss_2_2_2_1.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_2_2_2_2ststst",
+    "file": "Object/obj_boss_2_2_2_2ststst.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_2_2_2_3",
+    "file": "Object/obj_boss_2_2_2_3.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_2_room",
+    "file": "Object/obj_boss_2_room.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_3sttong",
+    "file": "Object/obj_boss_3sttong.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_4sttong",
+    "file": "Object/obj_boss_4sttong.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_collision",
+    "file": "Object/obj_boss_collision.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_face_",
+    "file": "Object/obj_boss_face_.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_face_kk",
+    "file": "Object/obj_boss_face_kk.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_face_kl",
+    "file": "Object/obj_boss_face_kl.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_face_kr",
+    "file": "Object/obj_boss_face_kr.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_mm",
+    "file": "Object/obj_boss_mm.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_riverbadack",
+    "file": "Object/obj_boss_riverbadack.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_sn",
+    "file": "Object/obj_boss_sn.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_snsn_fire",
+    "file": "Object/obj_boss_snsn_fire.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_snsnsn",
+    "file": "Object/obj_boss_snsnsn.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_snsnsnbig",
+    "file": "Object/obj_boss_snsnsnbig.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_ststststst",
+    "file": "Object/obj_boss_ststststst.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_toch",
+    "file": "Object/obj_boss_toch.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_water_t",
+    "file": "Object/obj_boss_water_t.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_watermm",
+    "file": "Object/obj_boss_watermm.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_zq_1stfloor_01",
+    "file": "Object/obj_boss_zq_1stfloor_01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_zq_3rd_b",
+    "file": "Object/obj_boss_zq_3rd_b.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_zq_3rd_f",
+    "file": "Object/obj_boss_zq_3rd_f.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_zq_3rd_m",
+    "file": "Object/obj_boss_zq_3rd_m.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_zq_3tongro",
+    "file": "Object/obj_boss_zq_3tongro.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_zq_4th_ring",
+    "file": "Object/obj_boss_zq_4th_ring.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_zq_bababadack",
+    "file": "Object/obj_boss_zq_bababadack.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_zq_backca_01",
+    "file": "Object/obj_boss_zq_backca_01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_zq_clack1",
+    "file": "Object/obj_boss_zq_clack1.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_zq_clack2",
+    "file": "Object/obj_boss_zq_clack2.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_zq_frontca_01",
+    "file": "Object/obj_boss_zq_frontca_01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_zq_zibung",
+    "file": "Object/obj_boss_zq_zibung.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_zq_zibung_b",
+    "file": "Object/obj_boss_zq_zibung_b.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_zq_zibung_f",
+    "file": "Object/obj_boss_zq_zibung_f.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss_zq_zibung_m",
+    "file": "Object/obj_boss_zq_zibung_m.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss2_1_1",
+    "file": "Object/obj_boss2_1_1.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_boss2_1_3",
+    "file": "Object/obj_boss2_1_3.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_bri3_070807",
+    "file": "Object/obj_bri3_070807.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_co_dumbul05f",
+    "file": "Object/obj_co_dumbul05f.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_co_dumbul07y",
+    "file": "Object/obj_co_dumbul07y.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_co_ip01",
+    "file": "Object/obj_co_ip01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_co_ip02",
+    "file": "Object/obj_co_ip02.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_dun_gob_lion01",
+    "file": "Object/obj_dun_gob_lion01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_dun_gob_lion02",
+    "file": "Object/obj_dun_gob_lion02.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_dun_miro01",
+    "file": "Object/obj_dun_miro01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_dun_miro02",
+    "file": "Object/obj_dun_miro02.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_dun_miro03",
+    "file": "Object/obj_dun_miro03.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_dun_miro04",
+    "file": "Object/obj_dun_miro04.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_dun_miro05",
+    "file": "Object/obj_dun_miro05.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_dun_miro06",
+    "file": "Object/obj_dun_miro06.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_dun_mirobrk01",
+    "file": "Object/obj_dun_mirobrk01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_dun_mirobrk02",
+    "file": "Object/obj_dun_mirobrk02.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_dun_mirobrk03",
+    "file": "Object/obj_dun_mirobrk03.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_dun_pondston01",
+    "file": "Object/obj_dun_pondston01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_dun_pondston02",
+    "file": "Object/obj_dun_pondston02.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_dun_pondston03",
+    "file": "Object/obj_dun_pondston03.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_dun_pondston04",
+    "file": "Object/obj_dun_pondston04.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_dun_pondston05",
+    "file": "Object/obj_dun_pondston05.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_dun_sinjun02",
+    "file": "Object/obj_dun_sinjun02.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_el_smoke_a",
+    "file": "Object/obj_el_smoke_a.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_el_smoke_b",
+    "file": "Object/obj_el_smoke_b.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_el_transmark00",
+    "file": "Object/obj_el_transmark00.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_eslant_70dun_bon_2006",
+    "file": "Object/obj_eslant_70dun_bon_2006.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_eslant_70dun_dan_2006",
+    "file": "Object/obj_eslant_70dun_dan_2006.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_eslant_70dun_post_2006",
+    "file": "Object/obj_eslant_70dun_post_2006.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_gaud1_070807",
+    "file": "Object/obj_gaud1_070807.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_gaud2_070807",
+    "file": "Object/obj_gaud2_070807.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_gaud3_070807",
+    "file": "Object/obj_gaud3_070807.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_guan_070807",
+    "file": "Object/obj_guan_070807.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_ka_bone01_big",
+    "file": "Object/obj_ka_bone01_big.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_ka_bone02_head",
+    "file": "Object/obj_ka_bone02_head.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_ka_bone03",
+    "file": "Object/obj_ka_bone03.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_ka_bone05",
+    "file": "Object/obj_ka_bone05.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_ka_transmark00",
+    "file": "Object/obj_ka_transmark00.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_mora_bill_012_motel_2007",
+    "file": "Object/obj_mora_bill_012_motel_2007.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_mora_center_tile_2007",
+    "file": "Object/obj_mora_center_tile_2007.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_mora_dong_02_20077",
+    "file": "Object/obj_mora_dong_02_20077.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_mora_dongsang_02_2007",
+    "file": "Object/obj_mora_dongsang_02_2007.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_mora_fountain_crystal",
+    "file": "Object/obj_mora_fountain_crystal.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_mora_gass_puls_01_2007",
+    "file": "Object/obj_mora_gass_puls_01_2007.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_mora_gass_puls_02_2007",
+    "file": "Object/obj_mora_gass_puls_02_2007.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_mora_gass_puls_03_2007",
+    "file": "Object/obj_mora_gass_puls_03_2007.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_mora_gass_puls_04_2007",
+    "file": "Object/obj_mora_gass_puls_04_2007.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_mora_gass_puls_05_2007",
+    "file": "Object/obj_mora_gass_puls_05_2007.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_mora_gass_puls_06_2007",
+    "file": "Object/obj_mora_gass_puls_06_2007.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_mora_grass002_2007",
+    "file": "Object/obj_mora_grass002_2007.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_mora_main_bill_2007",
+    "file": "Object/obj_mora_main_bill_2007.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_mora_pok_bill_01_2007",
+    "file": "Object/obj_mora_pok_bill_01_2007.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_mora_pok_bill_02_2007",
+    "file": "Object/obj_mora_pok_bill_02_2007.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_mora_pok_bill_03_2007",
+    "file": "Object/obj_mora_pok_bill_03_2007.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_mora_pok_bill_04_2007",
+    "file": "Object/obj_mora_pok_bill_04_2007.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_mora_sign_acc_bd",
+    "file": "Object/obj_mora_sign_acc_bd.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_mora_sign_armo",
+    "file": "Object/obj_mora_sign_armo.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_mora_sign_item_bd",
+    "file": "Object/obj_mora_sign_item_bd.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_mora_sign_stor",
+    "file": "Object/obj_mora_sign_stor.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_mora_sign_wep",
+    "file": "Object/obj_mora_sign_wep.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_mora_ston_b",
+    "file": "Object/obj_mora_ston_b.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_mora_ston_d",
+    "file": "Object/obj_mora_ston_d.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_mora_ston_e",
+    "file": "Object/obj_mora_ston_e.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_mora_ston_f",
+    "file": "Object/obj_mora_ston_f.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_mora_training_bon_2007",
+    "file": "Object/obj_mora_training_bon_2007.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_mora_wabum_b_0001_obj_mora_wabum_0001",
+    "file": "Object/obj_mora_wabum_b_0001_obj_mora_wabum_0001.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_mora_walsssssssssssss",
+    "file": "Object/obj_mora_walsssssssssssss.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_skull_l_070807",
+    "file": "Object/obj_skull_l_070807.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_skull_r_070807",
+    "file": "Object/obj_skull_r_070807.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_skull2_l_070807",
+    "file": "Object/obj_skull2_l_070807.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_skull2_r_070807",
+    "file": "Object/obj_skull2_r_070807.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_sn_r_070809",
+    "file": "Object/obj_sn_r_070809.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_snsa1_070807",
+    "file": "Object/obj_snsa1_070807.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_stondoll_070807",
+    "file": "Object/obj_stondoll_070807.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_syangdlry",
+    "file": "Object/obj_syangdlry.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_treasure1_070808",
+    "file": "Object/obj_treasure1_070808.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_treasure10_070809",
+    "file": "Object/obj_treasure10_070809.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_treasure11_070808",
+    "file": "Object/obj_treasure11_070808.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_treasure2_070809",
+    "file": "Object/obj_treasure2_070809.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_treasure3_070808",
+    "file": "Object/obj_treasure3_070808.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_treasure4_070808",
+    "file": "Object/obj_treasure4_070808.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_treasure5_070808",
+    "file": "Object/obj_treasure5_070808.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_treasure6_070808",
+    "file": "Object/obj_treasure6_070808.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_treasure7_070808",
+    "file": "Object/obj_treasure7_070808.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_treasure8_070808",
+    "file": "Object/obj_treasure8_070808.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_treasure9_070808",
+    "file": "Object/obj_treasure9_070808.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_turkey_fountain",
+    "file": "Object/obj_turkey_fountain.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_turkey_mainac",
+    "file": "Object/obj_turkey_mainac.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_boneskin",
+    "file": "Object/obj_war_boneskin.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_bri01",
+    "file": "Object/obj_war_bri01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_brkcanon",
+    "file": "Object/obj_war_brkcanon.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_brkcaptin",
+    "file": "Object/obj_war_brkcaptin.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_brkchungcha",
+    "file": "Object/obj_war_brkchungcha.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_brkladca",
+    "file": "Object/obj_war_brkladca.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_bunker",
+    "file": "Object/obj_war_bunker.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_cactus01",
+    "file": "Object/obj_war_cactus01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_cactus02",
+    "file": "Object/obj_war_cactus02.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_cactus03",
+    "file": "Object/obj_war_cactus03.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_cactus04",
+    "file": "Object/obj_war_cactus04.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_cactus05",
+    "file": "Object/obj_war_cactus05.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_cactus06",
+    "file": "Object/obj_war_cactus06.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_cactus07",
+    "file": "Object/obj_war_cactus07.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_castlwal01",
+    "file": "Object/obj_war_castlwal01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_castlwal02",
+    "file": "Object/obj_war_castlwal02.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_centcastl",
+    "file": "Object/obj_war_centcastl.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_centcastl_plus",
+    "file": "Object/obj_war_centcastl_plus.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_crystal01",
+    "file": "Object/obj_war_crystal01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_crystal02",
+    "file": "Object/obj_war_crystal02.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_drum01",
+    "file": "Object/obj_war_drum01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_dunkul01",
+    "file": "Object/obj_war_dunkul01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_dunkul04",
+    "file": "Object/obj_war_dunkul04.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_hause02",
+    "file": "Object/obj_war_hause02.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_magicston01",
+    "file": "Object/obj_war_magicston01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_magicston02",
+    "file": "Object/obj_war_magicston02.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_midcastl",
+    "file": "Object/obj_war_midcastl.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_midcastlwal",
+    "file": "Object/obj_war_midcastlwal.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_palm01",
+    "file": "Object/obj_war_palm01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_palm02",
+    "file": "Object/obj_war_palm02.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_reed_a00",
+    "file": "Object/obj_war_reed_a00.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_sandcastl",
+    "file": "Object/obj_war_sandcastl.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_sandhaus01",
+    "file": "Object/obj_war_sandhaus01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_sandhaus02",
+    "file": "Object/obj_war_sandhaus02.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_sandhaus03",
+    "file": "Object/obj_war_sandhaus03.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_signa_car",
+    "file": "Object/obj_war_signa_car.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_signa_drug",
+    "file": "Object/obj_war_signa_drug.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_signa_evry",
+    "file": "Object/obj_war_signa_evry.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_signa_inn",
+    "file": "Object/obj_war_signa_inn.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_signa_shild",
+    "file": "Object/obj_war_signa_shild.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_signa_wepon",
+    "file": "Object/obj_war_signa_wepon.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_signb_car",
+    "file": "Object/obj_war_signb_car.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_signb_drug",
+    "file": "Object/obj_war_signb_drug.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_signb_evry",
+    "file": "Object/obj_war_signb_evry.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_signb_inn",
+    "file": "Object/obj_war_signb_inn.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_signb_shild",
+    "file": "Object/obj_war_signb_shild.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_signb_wepon",
+    "file": "Object/obj_war_signb_wepon.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_ston01",
+    "file": "Object/obj_war_ston01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_ston03",
+    "file": "Object/obj_war_ston03.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_ston04",
+    "file": "Object/obj_war_ston04.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_ston05",
+    "file": "Object/obj_war_ston05.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_store_b",
+    "file": "Object/obj_war_store_b.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "obj_war_store_c",
+    "file": "Object/obj_war_store_c.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "pagerelf",
+    "file": "Object/pagerelf.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "polysurface1",
+    "file": "Object/polysurface1.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "pumpkin_big_a01",
+    "file": "Object/pumpkin_big_a01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "pumpkin_big_b01",
+    "file": "Object/pumpkin_big_b01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "pumpkin_big_c01",
+    "file": "Object/pumpkin_big_c01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "pumpkin_big_cabb",
+    "file": "Object/pumpkin_big_cabb.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "pumpkin_big_specal",
+    "file": "Object/pumpkin_big_specal.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "pumpkin_big_star_01",
+    "file": "Object/pumpkin_big_star_01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "pumpkin_big_star_02",
+    "file": "Object/pumpkin_big_star_02.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "pumpkin_big_star_03",
+    "file": "Object/pumpkin_big_star_03.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "pumpkin_big_star_04",
+    "file": "Object/pumpkin_big_star_04.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "pumpkin_dan_a01",
+    "file": "Object/pumpkin_dan_a01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "pumpkin_happy_halloween_a01",
+    "file": "Object/pumpkin_happy_halloween_a01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "pumpkin_jul",
+    "file": "Object/pumpkin_jul.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "pumpkin_small_a01",
+    "file": "Object/pumpkin_small_a01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "pumpkin_small_a02",
+    "file": "Object/pumpkin_small_a02.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "pumpkin_small_a03",
+    "file": "Object/pumpkin_small_a03.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "pumpkin_small_a04",
+    "file": "Object/pumpkin_small_a04.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "pumpkin_small_a05",
+    "file": "Object/pumpkin_small_a05.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "pumpkin_stick",
+    "file": "Object/pumpkin_stick.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "pumpkin_winga",
+    "file": "Object/pumpkin_winga.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "pumpkin_winga_l",
+    "file": "Object/pumpkin_winga_l.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "single_full_bone_kurian",
+    "file": "Object/single_full_bone_kurian.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "treasurebase1",
+    "file": "Object/treasurebase1.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "treasurebase2",
+    "file": "Object/treasurebase2.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "treasurebase3",
+    "file": "Object/treasurebase3.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "wonbosang_2014",
+    "file": "Object/wonbosang_2014.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "world_war_aaa01",
+    "file": "Object/world_war_aaa01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "world_war_bbb01",
+    "file": "Object/world_war_bbb01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_2010_jongs",
+    "file": "Object/z_2010_jongs.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_2010_jongs1",
+    "file": "Object/z_2010_jongs1.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_2010_jongs2",
+    "file": "Object/z_2010_jongs2.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_2010_jongs3",
+    "file": "Object/z_2010_jongs3.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_2010_jongs4",
+    "file": "Object/z_2010_jongs4.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_2010_jongs5",
+    "file": "Object/z_2010_jongs5.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_e_lever_2008",
+    "file": "Object/z_e_lever_2008.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_e_lever_bon_2008",
+    "file": "Object/z_e_lever_bon_2008.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_el_archenemy_a01_2008",
+    "file": "Object/z_el_archenemy_a01_2008.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_el_bongdown_a01_2008",
+    "file": "Object/z_el_bongdown_a01_2008.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_el_bongdown_a02_2008",
+    "file": "Object/z_el_bongdown_a02_2008.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_el_bongdown_a03_2008",
+    "file": "Object/z_el_bongdown_a03_2008.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_el_bongdown_a04_2008",
+    "file": "Object/z_el_bongdown_a04_2008.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_el_bongdown_b01_2008",
+    "file": "Object/z_el_bongdown_b01_2008.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_el_bongdown_b02_2008",
+    "file": "Object/z_el_bongdown_b02_2008.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_el_bongdown_b03_2008",
+    "file": "Object/z_el_bongdown_b03_2008.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_el_bongdown_b04_2008",
+    "file": "Object/z_el_bongdown_b04_2008.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_el_bongdown_b05_2008",
+    "file": "Object/z_el_bongdown_b05_2008.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_el_bongdown_b06_2008",
+    "file": "Object/z_el_bongdown_b06_2008.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_el_bongdown_c01_2008",
+    "file": "Object/z_el_bongdown_c01_2008.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_el_bongdown_d01_2008",
+    "file": "Object/z_el_bongdown_d01_2008.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_el_sat_post_upa_a08_2008",
+    "file": "Object/z_el_sat_post_upa_a08_2008.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_el_sat_post_upa_a08_2009",
+    "file": "Object/z_el_sat_post_upa_a08_2009.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_el_sat_post_upa_a08_2010",
+    "file": "Object/z_el_sat_post_upa_a08_2010.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_el_sat_post_upa_a08_2011",
+    "file": "Object/z_el_sat_post_upa_a08_2011.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_el_sat_post2_upa_a09_2008",
+    "file": "Object/z_el_sat_post2_upa_a09_2008.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_el_sat_post2_upa_a09_2009",
+    "file": "Object/z_el_sat_post2_upa_a09_2009.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_el_sat_post3_upa_a09_2008",
+    "file": "Object/z_el_sat_post3_upa_a09_2008.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_el_sat_post3_upa_a09_2009",
+    "file": "Object/z_el_sat_post3_upa_a09_2009.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_el_sat_post4_upa_a09_2008",
+    "file": "Object/z_el_sat_post4_upa_a09_2008.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_el_sat_post4_upa_a09_2009",
+    "file": "Object/z_el_sat_post4_upa_a09_2009.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_el_sat_post4_upa_a09_2010",
+    "file": "Object/z_el_sat_post4_upa_a09_2010.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_el_sat_post4_upa_a09_2011",
+    "file": "Object/z_el_sat_post4_upa_a09_2011.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_el_sat_post5_upa_a09_2008",
+    "file": "Object/z_el_sat_post5_upa_a09_2008.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_el_sat_post5_upa_a09_2009",
+    "file": "Object/z_el_sat_post5_upa_a09_2009.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_el_sat_post6_upa_a09_20008888",
+    "file": "Object/z_el_sat_post6_upa_a09_20008888.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_el_sat_post6_upa_a09_2008",
+    "file": "Object/z_el_sat_post6_upa_a09_2008.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_el_sat_post6_upa_a09_20088",
+    "file": "Object/z_el_sat_post6_upa_a09_20088.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_el_sat_post6_upa_a09_200888",
+    "file": "Object/z_el_sat_post6_upa_a09_200888.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z_trans_vmesh_a01",
+    "file": "Object/z_trans_vmesh_a01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z1th_bace_cen_a001",
+    "file": "Object/z1th_bace_cen_a001.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z1th_bace_cen_a0010",
+    "file": "Object/z1th_bace_cen_a0010.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z1th_bace_cen_a0011",
+    "file": "Object/z1th_bace_cen_a0011.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z1th_bace_cen_a0012",
+    "file": "Object/z1th_bace_cen_a0012.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z1th_bace_cen_a0013",
+    "file": "Object/z1th_bace_cen_a0013.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z1th_bace_cen_a0014",
+    "file": "Object/z1th_bace_cen_a0014.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z1th_bace_cen_a0015",
+    "file": "Object/z1th_bace_cen_a0015.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z1th_bace_cen_a002",
+    "file": "Object/z1th_bace_cen_a002.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z1th_bace_cen_a003",
+    "file": "Object/z1th_bace_cen_a003.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z1th_bace_cen_a004",
+    "file": "Object/z1th_bace_cen_a004.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z1th_bace_cen_a005",
+    "file": "Object/z1th_bace_cen_a005.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z1th_bace_cen_a006",
+    "file": "Object/z1th_bace_cen_a006.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z1th_bace_cen_a007",
+    "file": "Object/z1th_bace_cen_a007.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z1th_bace_cen_a008",
+    "file": "Object/z1th_bace_cen_a008.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z1th_bace_cen_a009",
+    "file": "Object/z1th_bace_cen_a009.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z2th_bace_cen_a01",
+    "file": "Object/z2th_bace_cen_a01.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z2th_bace_cen_a010",
+    "file": "Object/z2th_bace_cen_a010.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z2th_bace_cen_a011",
+    "file": "Object/z2th_bace_cen_a011.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z2th_bace_cen_a012",
+    "file": "Object/z2th_bace_cen_a012.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z2th_bace_cen_a013",
+    "file": "Object/z2th_bace_cen_a013.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z2th_bace_cen_a014",
+    "file": "Object/z2th_bace_cen_a014.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z2th_bace_cen_a015",
+    "file": "Object/z2th_bace_cen_a015.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z2th_bace_cen_a016",
+    "file": "Object/z2th_bace_cen_a016.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z2th_bace_cen_a017",
+    "file": "Object/z2th_bace_cen_a017.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z2th_bace_cen_a018",
+    "file": "Object/z2th_bace_cen_a018.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z2th_bace_cen_a019",
+    "file": "Object/z2th_bace_cen_a019.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z2th_bace_cen_a02",
+    "file": "Object/z2th_bace_cen_a02.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z2th_bace_cen_a020",
+    "file": "Object/z2th_bace_cen_a020.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z2th_bace_cen_a021",
+    "file": "Object/z2th_bace_cen_a021.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z2th_bace_cen_a022",
+    "file": "Object/z2th_bace_cen_a022.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z2th_bace_cen_a023",
+    "file": "Object/z2th_bace_cen_a023.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z2th_bace_cen_a03",
+    "file": "Object/z2th_bace_cen_a03.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z2th_bace_cen_a04",
+    "file": "Object/z2th_bace_cen_a04.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z2th_bace_cen_a05",
+    "file": "Object/z2th_bace_cen_a05.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z2th_bace_cen_a06",
+    "file": "Object/z2th_bace_cen_a06.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z2th_bace_cen_a07",
+    "file": "Object/z2th_bace_cen_a07.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z2th_bace_cen_a08",
+    "file": "Object/z2th_bace_cen_a08.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z2th_bace_cen_a09",
+    "file": "Object/z2th_bace_cen_a09.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z2th_bace_cen_fx1_jo",
+    "file": "Object/z2th_bace_cen_fx1_jo.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z3th_bace_cen_a00001",
+    "file": "Object/z3th_bace_cen_a00001.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z3th_bace_cen_a000010",
+    "file": "Object/z3th_bace_cen_a000010.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z3th_bace_cen_a000011",
+    "file": "Object/z3th_bace_cen_a000011.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z3th_bace_cen_a000012",
+    "file": "Object/z3th_bace_cen_a000012.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z3th_bace_cen_a000013",
+    "file": "Object/z3th_bace_cen_a000013.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z3th_bace_cen_a000014",
+    "file": "Object/z3th_bace_cen_a000014.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z3th_bace_cen_a000015",
+    "file": "Object/z3th_bace_cen_a000015.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z3th_bace_cen_a000016",
+    "file": "Object/z3th_bace_cen_a000016.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z3th_bace_cen_a000017",
+    "file": "Object/z3th_bace_cen_a000017.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z3th_bace_cen_a000018",
+    "file": "Object/z3th_bace_cen_a000018.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z3th_bace_cen_a000019",
+    "file": "Object/z3th_bace_cen_a000019.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z3th_bace_cen_a00002",
+    "file": "Object/z3th_bace_cen_a00002.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z3th_bace_cen_a000020",
+    "file": "Object/z3th_bace_cen_a000020.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z3th_bace_cen_a000022",
+    "file": "Object/z3th_bace_cen_a000022.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z3th_bace_cen_a00003",
+    "file": "Object/z3th_bace_cen_a00003.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z3th_bace_cen_a00004",
+    "file": "Object/z3th_bace_cen_a00004.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z3th_bace_cen_a00005",
+    "file": "Object/z3th_bace_cen_a00005.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z3th_bace_cen_a00006",
+    "file": "Object/z3th_bace_cen_a00006.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z3th_bace_cen_a00007",
+    "file": "Object/z3th_bace_cen_a00007.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z3th_bace_cen_a00008",
+    "file": "Object/z3th_bace_cen_a00008.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z3th_bace_cen_a00009",
+    "file": "Object/z3th_bace_cen_a00009.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z4th_bace_cen_a00001",
+    "file": "Object/z4th_bace_cen_a00001.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z4th_bace_cen_a000010",
+    "file": "Object/z4th_bace_cen_a000010.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z4th_bace_cen_a000011",
+    "file": "Object/z4th_bace_cen_a000011.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z4th_bace_cen_a000012",
+    "file": "Object/z4th_bace_cen_a000012.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z4th_bace_cen_a000013",
+    "file": "Object/z4th_bace_cen_a000013.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z4th_bace_cen_a000014",
+    "file": "Object/z4th_bace_cen_a000014.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z4th_bace_cen_a000015",
+    "file": "Object/z4th_bace_cen_a000015.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z4th_bace_cen_a000016",
+    "file": "Object/z4th_bace_cen_a000016.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z4th_bace_cen_a00002",
+    "file": "Object/z4th_bace_cen_a00002.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z4th_bace_cen_a00003",
+    "file": "Object/z4th_bace_cen_a00003.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z4th_bace_cen_a00004",
+    "file": "Object/z4th_bace_cen_a00004.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z4th_bace_cen_a00005",
+    "file": "Object/z4th_bace_cen_a00005.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z4th_bace_cen_a00006",
+    "file": "Object/z4th_bace_cen_a00006.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z4th_bace_cen_a00007",
+    "file": "Object/z4th_bace_cen_a00007.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z4th_bace_cen_a00008",
+    "file": "Object/z4th_bace_cen_a00008.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z4th_bace_cen_a00009",
+    "file": "Object/z4th_bace_cen_a00009.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z4th_bace_cencoll_a00001",
+    "file": "Object/z4th_bace_cencoll_a00001.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z5th_bace_cen_a000010",
+    "file": "Object/z5th_bace_cen_a000010.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z5th_bace_cen_a000011",
+    "file": "Object/z5th_bace_cen_a000011.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z5th_bace_cen_a000012",
+    "file": "Object/z5th_bace_cen_a000012.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z5th_bace_cen_a00003",
+    "file": "Object/z5th_bace_cen_a00003.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z5th_bace_cen_a00004",
+    "file": "Object/z5th_bace_cen_a00004.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z5th_bace_cen_a00005",
+    "file": "Object/z5th_bace_cen_a00005.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z5th_bace_cen_a00006",
+    "file": "Object/z5th_bace_cen_a00006.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z5th_bace_cen_a00007",
+    "file": "Object/z5th_bace_cen_a00007.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z5th_bace_cen_a00008",
+    "file": "Object/z5th_bace_cen_a00008.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z5th_bace_cen_a00009",
+    "file": "Object/z5th_bace_cen_a00009.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z5th_bace_coll_a00002",
+    "file": "Object/z5th_bace_coll_a00002.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z5th_dragon2015_bbjo",
+    "file": "Object/z5th_dragon2015_bbjo.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z5th_skyup_a00001",
+    "file": "Object/z5th_skyup_a00001.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "z5th_skyup_a00002",
+    "file": "Object/z5th_skyup_a00002.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "zz_fx_plus",
+    "file": "Object/zz_fx_plus.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "zz_fxx_alpha",
+    "file": "Object/zz_fxx_alpha.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "zz_kgb_jo_all_all",
+    "file": "Object/zz_kgb_jo_all_all.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "zz_kgb_jo_all_all_k",
+    "file": "Object/zz_kgb_jo_all_all_k.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "zzzzzzzzzzzzzzzz",
+    "file": "Object/zzzzzzzzzzzzzzzz.n3shape",
+    "category": "Other Objects"
+  },
+  {
+    "name": "cw_ship",
+    "file": "Object/cw_ship.n3shape",
+    "category": "Props & Decorations"
+  },
+  {
+    "name": "flagpole_el_01_2006",
+    "file": "Object/flagpole_el_01_2006.n3shape",
+    "category": "Props & Decorations"
+  },
+  {
+    "name": "flagpole_ka_01_2006",
+    "file": "Object/flagpole_ka_01_2006.n3shape",
+    "category": "Props & Decorations"
+  },
+  {
+    "name": "obj_2010_cart",
+    "file": "Object/obj_2010_cart.n3shape",
+    "category": "Props & Decorations"
+  },
+  {
+    "name": "obj_ka_01_lamp",
+    "file": "Object/obj_ka_01_lamp.n3shape",
+    "category": "Props & Decorations"
+  },
+  {
+    "name": "obj_mora_flag01",
+    "file": "Object/obj_mora_flag01.n3shape",
+    "category": "Props & Decorations"
+  },
+  {
+    "name": "obj_war_lamp",
+    "file": "Object/obj_war_lamp.n3shape",
+    "category": "Props & Decorations"
+  },
+  {
+    "name": "pumpkin_flag_d01",
+    "file": "Object/pumpkin_flag_d01.n3shape",
+    "category": "Props & Decorations"
+  }
+]
